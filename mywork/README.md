@@ -1,6 +1,6 @@
 # mywork
 
-## 利用bootstrap搭建的实现购物车原理的小demo
+## 购物车原理的小demo
 
 # 预览图
 ![预览图] ('https://github.com/FanYaoFan/vue-cli/blob/master/gif/b.gif')
