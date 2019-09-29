@@ -3,7 +3,7 @@
 ## 购物车原理的小demo
 
 # 预览图
-![预览图] ('https://github.com/FanYaoFan/vue-cli/blob/master/gif/b.gif')
+[预览图] ('https://github.com/FanYaoFan/vue-cli/blob/master/gif/b.gif')
 
 ### 学习点
 1 过滤器的使用
